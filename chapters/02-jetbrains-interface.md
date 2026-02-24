@@ -254,6 +254,6 @@
 
 <div align="center">
 
-[📚 В словарь](GLOSSARY.md) | [🏠 На главную](README.md)
+[📚 В словарь]([GLOSSARY.md](https://github.com/nonetgit/git-jetbrains-course/blob/main/GLOSSARY.md)) | [🏠 На главную](README.md)
 
 </div>
